@@ -80,8 +80,6 @@ The dataset contains information such as:
 
 ## 📈 DAX Measures Used
 
-Examples include:
-
 ```DAX
 Total Titles = COUNTROWS(Netflix)
 
